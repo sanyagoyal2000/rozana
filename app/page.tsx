@@ -150,7 +150,7 @@ export default function Home() {
             </a>
           </div>
           <p className="micro">
-            <Check /> Personalised guidance, never a diagnosis.
+            <Check /> Personalised guidance.
           </p>
         </div>
 
