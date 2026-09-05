@@ -388,13 +388,14 @@ export default function Home() {
           <span className="category">TELL A FRIEND</span>
           <h3>Know someone who would like this?</h3>
           <p>
-            You get 100 points when a friend you told places her first order. It is the biggest thing you
-            can earn here.
+            Share. Earn. Save. Refer a friend and earn 200 points, when they place their first order. Start referring now!
+
           </p>
+          <br/>
           <button className="primary-cta" onClick={rozana.referralConverted}>
             See how it works <ArrowRight />
           </button>
-          <small>Points arrive when her box ships.</small>
+          <small>Points arrive when her box ships. For every 1000 points you earn get ₹50 off.</small>
         </div>
       </section>
 
