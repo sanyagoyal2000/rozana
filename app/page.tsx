@@ -425,7 +425,7 @@ export default function Home() {
           <a href="#consult">Ask a question</a>
         </div>
         <p className="footer-note">
-          A concept prototype. Products, prices and claims are illustrative.
+          Formulated in compliance with FSSAI nutraceutical standards. Designed to support dietary nutritional gaps during midlife transitions.A concept prototype. Products, prices and claims are illustrative.
         </p>
       </footer>
 
